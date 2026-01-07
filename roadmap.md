@@ -51,9 +51,9 @@ Focus: production design patterns, reliability, agentic workflows.
 |  | Retrieval baseline (BM25 vs vector, top-k tuning) | L0 | - | Planned |
 |  | Re-ranking (cross-encoder / LLM rerank) | L0 | - | Planned |
 |  | Query rewrite (HyDE / sub-queries) | L0 | - | Planned |
-| **Evaluation** | Offline eval set design (golden set, leakage) | L0 | - | Planned |
-|  | RAG eval metrics (retrieval + generation) | L0 | - | Planned |
-|  | Regression testing for prompts/workflows | L0 | - | Planned |
+| **Evaluation** | Offline eval set design (golden set, leakage) | L1 | [2026-01-05-llm-eval-basics.md](file:///d:/个人项目/LLM-Study/sessions/2026-01-05-llm-eval-basics.md) | Progressing |
+|  | RAG eval metrics (retrieval + generation) | L1 | [2026-01-05-llm-eval-basics.md](file:///d:/个人项目/LLM-Study/sessions/2026-01-05-llm-eval-basics.md) | Progressing |
+|  | Regression testing for prompts/workflows | L1 | [2026-01-05-llm-eval-basics.md](file:///d:/个人项目/LLM-Study/sessions/2026-01-05-llm-eval-basics.md) | Progressing |
 
 ---
 
