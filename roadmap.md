@@ -38,11 +38,11 @@ Focus: production design patterns, reliability, agentic workflows.
 
 | Module | Topic | Level | Evidence (Links) | Status |
 |---|---|---:|---|---|
-| **LangChain v1.0** | LCEL primitives (Runnable, pipe, config) | L0 | - | Planned |
-|  | Composition patterns (map, branch, parallel, retry) | L0 | - | Planned |
+| **LangChain v1.0** | LCEL primitives (Runnable, pipe, config) | L1 | [2026-01-16-agent-orchestration-intro.md](file:///d:/个人项目/LLM-Study/sessions/2026-01-16-agent-orchestration-intro.md) | Progressing |
+|  | Composition patterns (map, branch, parallel, retry) | L1 | [2026-01-16-agent-orchestration-intro.md](file:///d:/个人项目/LLM-Study/sessions/2026-01-16-agent-orchestration-intro.md) | Progressing |
 |  | Streaming (token streaming, callbacks) | L0 | - | Planned |
-|  | Tool binding (schema, validation, retries) | L0 | - | Planned |
-|  | Prompt & message modeling (roles, system constraints) | L0 | - | Planned |
+|  | Tool binding (schema, validation, retries) | L1 | [2026-01-16-agent-orchestration-intro.md](file:///d:/个人项目/LLM-Study/sessions/2026-01-16-agent-orchestration-intro.md) | Progressing |
+|  | Prompt & message modeling (roles, system constraints) | L1 | [2026-01-16-agent-orchestration-intro.md](file:///d:/个人项目/LLM-Study/sessions/2026-01-16-agent-orchestration-intro.md) | Progressing |
 | **LangGraph** | State modeling (MessagesState, reducers) | L0 | - | Planned |
 |  | Cyclic graphs (loops, stop conditions) | L0 | - | Planned |
 |  | Persistence (checkpointing, replay) | L0 | - | Planned |

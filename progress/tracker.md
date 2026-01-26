@@ -34,7 +34,7 @@ This single document tracks ALL progress toward becoming an LLM Algorithm Expert
 | **C. Fine-tuning & Alignment (SFT/LoRA/DPO/RL)** | 15% | 0/___ | ⚪ Not Started | High |
 | **D. Inference, Serving & Optimization (vLLM/TRT/Triton)** | 15% | 0/___ | ⚪ Not Started | High |
 | **E. RAG & Knowledge Systems** | 15% | 0/___ | ⚪ Not Started | High |
-| **F. Agent Systems & Orchestration (LangGraph/MCP/Tools)** | 10% | 0/___ | ⚪ Not Started | High |
+| **F. Agent Systems & Orchestration (LangGraph/MCP/Tools)** | 10% | 3/___ | 🟡 Learning | High |
 | **G. Evaluation, Monitoring & Iteration Loops** | 10% | 0/___ | ⚪ Not Started | High |
 | **H. Multimodal & Speech (ASR + SpeechLM + MLLM)** | 10% | 0/___ | ⚪ Not Started | Medium |
 | **I. MLOps, Reliability & Security/Compliance** | 5% | 0/___ | ⚪ Not Started | Medium |
@@ -183,12 +183,12 @@ This single document tracks ALL progress toward becoming an LLM Algorithm Expert
 ## F. Agent Systems & Orchestration (10%)
 
 ### F1. Tool calling & schemas
-- [ ] Function/tool schema design (JSON schema, validation)
-- [ ] Tool routing and fallback policy
+- [x] Function/tool schema design (JSON schema, validation)
+- [x] Tool routing and fallback policy
 - [ ] Determinism: idempotency, retries, side-effect controls
 
 ### F2. Orchestration patterns
-- [ ] Prompt chaining; routing; orchestrator-workers
+- [x] Prompt chaining; routing; orchestrator-workers
 - [ ] Planner-executor; ReAct-style; guardrails
 - [ ] State management (messages state, structured state)
 
@@ -203,7 +203,8 @@ This single document tracks ALL progress toward becoming an LLM Algorithm Expert
 - [ ] Retrieval-based memory; privacy constraints
 
 ### Notes / Links
-- Notes: `progress/notes/F_agents.md` (create)
+- Notes: `tracks/01-Frameworks/orchestration-concepts.md`, `tracks/01-Frameworks/LangChain-v1.0/tool-calling-basics.md`
+- Session: `sessions/2026-01-16-agent-orchestration-intro.md`
 
 ---
 
